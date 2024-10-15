@@ -1,2 +1,3 @@
 # sai.projects
-my git first repository
+This is my first project .
+Author -> Palepu Ankamma Sai
